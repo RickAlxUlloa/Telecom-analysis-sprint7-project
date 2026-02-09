@@ -1,5 +1,5 @@
 # Telecom-analysis-sprint7-project
-evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica
+Evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica
 
 Como analista de datos, el objetivo es evaluar el comportamiento de los clientes de una empresa de telecomunicaciones en Latinoamérica, ConnectaTel.
 
